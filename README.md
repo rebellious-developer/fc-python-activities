@@ -8,8 +8,6 @@ Contains the answers to the following
 ## How I created this project
 1. Created this project folder (fc-python-activities)
 
-2. Added a basic 
-
 2. Ran the following shell commands from inside the project folder:
 ```bash
 git init
